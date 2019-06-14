@@ -1,4 +1,6 @@
-#will light a different light for each numbered button
+#will move a motor forward or backward
+#whenever the 1 or 3 button on an explorer hat
+#is being held
 import explorerhat
 from time import sleep
 from gpiozero import Button
