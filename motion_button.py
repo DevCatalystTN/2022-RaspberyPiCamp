@@ -4,12 +4,11 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 from picamera import PiCamera
-from gpiozero import Button, Buzzer
+from gpiozero import Button
 from time import sleep
 import smtplib
 import pygame.mixer
 from pygame.mixer import Sound
-from signal import pause
 
 pygame.init()
 
@@ -17,8 +16,8 @@ boolean = True
 camera = PiCamera()
 button = Button(4)
 doorbell = pygame.mixer.Sound('/home/pi/doorbell-1.wav')
-from_mail = 'merpinkley@gmail.com'
-to_mail = 'christen@attheco.com'
+from_mail = 'sender email'
+to_mail = 'receiving email'
 msg = MIMEMultipart()
 
 while boolean == True:
@@ -47,7 +46,7 @@ while boolean == True:
 
         s = smtplib.SMTP('smtp.gmail.com', 587)
         s.starttls()
-        s.login(from_mail, 'Pudding1')
+        s.login(from_mail, 'Password')
         text = msg.as_string()
         s.sendmail(from_mail, to_mail, text)
         s.quit()
