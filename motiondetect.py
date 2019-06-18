@@ -21,7 +21,7 @@ while True:#infinite loop
     #starts a preview that allows you to still see the code running
     if sensor.motion_detected:#checks for motion
 
-        photo = "/home/Pictures/image" + str(count) + ".jpg"
+        photo = "/home/pi/image" + str(count) + ".jpg"
         #sets the filename
         sleep(.25)#delays the camera slightly 
         camera.capture(photo)#captures a photo and saves it
