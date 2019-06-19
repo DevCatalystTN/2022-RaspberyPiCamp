@@ -10,6 +10,7 @@ count = 0
 
 camera = PiCamera()
 
+# input for the sender's email
 while True:
     print('What email would you like to send these pictures from?')
     print('Make sure that it supports outside applications mailing first...')
@@ -24,6 +25,7 @@ while True:
     else:
         print("We're going to ask again, because you used an invalid response")
 
+# input for the password of sender email
 while True:
     print('What is the password for the sending email?')
     from_password = input()
@@ -37,6 +39,7 @@ while True:
     else:
         print("We're going to ask again, because you used an invalid response")
 
+# Input for receiver email
 while True:
     print('What email would you like to send these pictures to?')
     to_mail = input()
@@ -50,6 +53,7 @@ while True:
     else:
         print("We're going to ask again, because you used an invalid response")
 
+#input for the name of picture
 while True:
     print('What would you like to label these pictures as? You cannot use the / symbol.')
     name = input()
@@ -63,6 +67,7 @@ while True:
     else:
         print("We're going to ask again, because you used an invalid response")
   
+# content of email
 msg = MIMEMultipart()
 
 msg['From'] = from_mail
@@ -70,19 +75,21 @@ msg['To'] = to_mail
 msg['Subject'] = "A picture for you"
 body = "A picture for you."
 
+# input for how many pictures you want to take
 print('How many pictures do you want to take?')
 user = int(input())
 
-
+# loop that takes the number of pictures specified
 while count < user:
-
+    
+    # naming the picture and taking it
     photo = '/home/pi/Pictures/' + name + str(count) + '.jpg'
     camera.start_preview()
     sleep(3)
     camera.capture(photo)
     camera.stop_preview()
 
-
+    # sending the email
     msg.attach(MIMEText(body, 'plain'))
 
     filename = name + str(count) + ".jpg"
