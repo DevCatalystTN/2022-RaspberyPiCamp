@@ -1,3 +1,5 @@
+# Basic camera preview for 120 seconds
+
 from picamera import PiCamera
 from time import sleep
 
