@@ -9,8 +9,8 @@ from picamera import PiCamera#import camera
 from time import sleep#import sleep for delay time
 
 camera = PiCamera()#shortening camera syntax
-from_mail = 'merpinkley@gmail.com'#setting the sender's email
-to_mail = 'micah.pinkley@my.uu.edu'#setting the receiver's email
+from_mail = 'SENDER_EMAIL'#setting the sender's email
+to_mail = 'RECEIVER_EMAIL'#setting the receiver's email
 msg = MIMEMultipart()#defining the msg variable to hold the header values
 
 camera.start_preview(alpha=192)
@@ -38,7 +38,7 @@ msg.attach(p)#finishes attaching the file
 
 s = smtplib.SMTP('smtp.gmail.com', 587)#sets the mail protocol
 s.starttls()#Starts an email session
-s.login(from_mail, 'Pudding1')#logs into the sender email
+s.login(from_mail, 'SENDER_PASSWORD')#logs into the sender email
 text = msg.as_string()#uses the set parameters from msg
 s.sendmail(from_mail, to_mail, text)#sends the email
 s.quit()#ends the email session
