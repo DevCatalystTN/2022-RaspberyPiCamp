@@ -1,3 +1,5 @@
+# playing a noise when motion is sensed using a PIR sensor and a speaker
+
 from gpiozero import MotionSensor#imports motion sensor
 import pygame.mixer#imports the pygame instance library
 
