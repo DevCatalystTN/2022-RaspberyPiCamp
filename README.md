@@ -31,3 +31,6 @@
 - Keyboard
 - HDMI Cable
 
+
+## Online Resources
+- [VNC Download](https://www.realvnc.com/en/connect/download/viewer/)
