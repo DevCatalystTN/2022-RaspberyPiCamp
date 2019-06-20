@@ -33,4 +33,4 @@
 
 
 ## Online Resources
-- [VNC Download](https://www.realvnc.com/en/connect/download/viewer/)
+- [VNC Viewer Download](https://www.realvnc.com/en/connect/download/viewer/)
