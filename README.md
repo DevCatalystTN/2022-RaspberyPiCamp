@@ -20,6 +20,7 @@
 - [Stepper Motor](https://www.adafruit.com/product/324)
 - [A Really Cool Motor HAT](https://www.adafruit.com/product/2348)
 - [A PIR Sensor](https://www.amazon.com/DIYmall-HC-SR501-Infrared-Sensor-Arduino/dp/B07CSM3K63/ref=sr_1_5?crid=2PVE37OEZ3ZXM&keywords=pir+sensor&qid=1561071993&s=gateway&sprefix=PIR+%2Caps%2C162&sr=8-5)
+- [A Sense HAT](https://www.raspberrypi.org/products/sense-hat/)
 
 
 ## Raspberry Pi Essential Supplies
