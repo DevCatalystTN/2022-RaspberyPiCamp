@@ -1,3 +1,5 @@
+# makes motor 1 plugged into explorer hat go forwards
+
 import explorerhat
 from time import sleep
 
