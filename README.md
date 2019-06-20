@@ -34,3 +34,5 @@
 
 ## Online Resources
 - [VNC Viewer Download](https://www.realvnc.com/en/connect/download/viewer/)
+- [GPIOZero Documentation](https://gpiozero.readthedocs.io/en/stable/)
+- [SenseHAT Documentation](https://www.raspberrypi.org/documentation/hardware/sense-hat/)
