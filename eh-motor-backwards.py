@@ -1,3 +1,5 @@
+#makes motor 1 plugged into explorer hat go backwards
+
 import explorerhat
 from time import sleep
 
