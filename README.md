@@ -37,6 +37,7 @@
 
 
 ## Online Resources
+- [Raspberry Pi Foundation's Project Tutorials]([https://www.raspberrypi.org/](https://projects.raspberrypi.org/en))
 - Want less wires? Learn how to use your laptop to use your Raspberry Pi in [this video](https://www.youtube.com/watch?v=08ZwV9xofWw).
   - [VNC Viewer Download](https://www.realvnc.com/en/connect/download/viewer/)
 - [GPIOZero Documentation](https://gpiozero.readthedocs.io/en/stable/)
