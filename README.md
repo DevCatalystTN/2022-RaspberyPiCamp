@@ -1,11 +1,12 @@
 # Raspberry Pi Camp 2022
 
 ## Setting Up Your SD card
-- [Instructions on the Raspberry Pi Website](https://www.raspberrypi.com/software/)
+- [Install Raspberry Pi Imager](https://www.raspberrypi.com/software/) then simply select "Raspberry Pi OS (32-BIT)", select the microSD card that is plugged into your computer and let the imager handle the rest!
 
 ## Shopping
-- [Raspberry Pi B+](https://www.adafruit.com/product/3775)
-- [Raspberry Pi Zero WH](https://www.adafruit.com/product/3708)
+- [Raspberry Pi 3 Model B+](https://www.adafruit.com/product/3775) - your Raspberry Pi (currently out of stock due to chip shortages)
+- [Raspberry Pi 4](https://www.adafruit.com/product/4292) - the newest Raspberry Pi (currently out of stock due to chip shortages)
+- [Raspberry Pi Zero WH](https://www.adafruit.com/product/3708) - a smaller Raspberry Pi (currently out of stock due to chip shortages)
 - [LED Lights](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH/ref=sxin_2_ac_d_rm?keywords=led&pd_rd_i=B06XPV4CSH&pd_rd_r=8f301bb6-1556-43cf-97c4-bf402ef905c4&pd_rd_w=SEJuq&pd_rd_wg=X1Mxy&pf_rd_p=91b604bb-c371-4573-970f-bed68a552852&pf_rd_r=WRKZBY91QAKZ9HYWQPWH&qid=1560889883&s=gateway)
 - [Various Jumper Wires](https://www.amazon.com/Multicolored-Breadboard-Dupont-Jumper-Wires/dp/B073X7P6N2/ref=sr_1_1_sspa?keywords=male+to+male+jumper+wires&qid=1560890011&s=gateway&sr=8-1-spons&psc=1)
 - [Resistor/Buttons/LED/Potentiometer Variety Pack](https://www.amazon.com/ELEGOO-Electronics-Component-resistors-Potentiometer/dp/B01ERPXFZK/ref=sr_1_7?keywords=resistors&qid=1560890067&s=gateway&sr=8-7)
