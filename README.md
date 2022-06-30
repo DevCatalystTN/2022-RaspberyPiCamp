@@ -12,7 +12,7 @@
 - [Resistor/Buttons/LED/Potentiometer Variety Pack](https://www.amazon.com/ELEGOO-Electronics-Component-resistors-Potentiometer/dp/B01ERPXFZK/ref=sr_1_7?keywords=resistors&qid=1560890067&s=gateway&sr=8-7](https://www.amazon.com/EL-CK-002-Electronic-Breadboard-Capacitor-Potentiometer/dp/B01ERP6WL4/ref=sr_1_10?keywords=electronics+variety+pack&qid=1656617172&sr=8-10))
 - [Bread Board](https://www.amazon.com/Breadboard-Solderless-Prototype-Universal-Raspberry/dp/B07LF84HWK/ref=sr_1_9?keywords=breadboard&qid=1560890185&s=gateway&sr=8-9)
 - [GPIO Reference Board](https://www.amazon.com/GPIO-Reference-Board-Raspberry-Model/dp/B00RHG18E2/ref=sr_1_3?crid=3JPGRZC6SLQ8C&keywords=gpio+reference+board&qid=1560890253&s=gateway&sprefix=GPIO+reference%2Caps%2C153&sr=8-3)
-- [Explorer HAT](https://www.amazon.com/PIM082-Explorer-HAT-40-Pin-Raspberry/dp/B00WWQ20MG/ref=sr_1_1?keywords=explorer+hat+pro&qid=1560890568&s=gateway&sr=8-1](https://www.amazon.com/GPIO-Reference-Board-Raspberry-Model/dp/B07DM78KS8/ref=sr_1_3?crid=FTSKMIWF37TR&keywords=GPIO+Reference+board&qid=1656617256&sprefix=gpio+reference+board%2Caps%2C79&sr=8-3)
+- [Explorer HAT](https://www.amazon.com/PIM082-Explorer-HAT-40-Pin-Raspberry/dp/B00WWQ20MG/ref=sr_1_1?keywords=explorer+hat+pro&qid=1560890568&s=gateway&sr=8-1](https://www.amazon.com/GPIO-Reference-Board-Raspberry-Model/dp/B07DM78KS8/ref=sr_1_3?crid=FTSKMIWF37TR&keywords=GPIO+Reference+board&qid=1656617256&sprefix=gpio+reference+board%2Caps%2C79&sr=8-3))
 - [Big Servo Motor](https://www.adafruit.com/product/155)
 - [Little Servo Motor](https://www.adafruit.com/product/2201)
 - [Little DC Motor](https://www.adafruit.com/product/711)
