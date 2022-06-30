@@ -1,4 +1,4 @@
-# Raspberry Pi Camp 2019
+# Raspberry Pi Camp 2022
 
 ## Setting Up Your SD card
 - [Raspberry Pi Foundation Instructions](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/3)
@@ -37,3 +37,9 @@
 - [VNC Viewer Download](https://www.realvnc.com/en/connect/download/viewer/)
 - [GPIOZero Documentation](https://gpiozero.readthedocs.io/en/stable/)
 - [SenseHAT Documentation](https://www.raspberrypi.org/documentation/hardware/sense-hat/)
+- [Python Tutorials](https://www.w3schools.com/python/)
+  - [Python print()](https://www.w3schools.com/python/python_intro.asp)
+  - [Python lists](https://www.w3schools.com/python/python_lists.asp)
+  - [Python for loops](https://www.w3schools.com/python/python_for_loops.asp)
+  - [Python while loops](https://www.w3schools.com/python/python_while_loops.asp)
+  - [Python if else statements](https://www.w3schools.com/python/python_conditions.asp)
