@@ -22,7 +22,7 @@
 - [A Sense HAT](https://www.raspberrypi.org/products/sense-hat/)
 - [Adafruit](https://www.adafruit.com/) - LOTS of cool stuff
 - [Sparkfun](https://www.sparkfun.com/) - EVEN MORE cool stuff
-- [Pimoroni[(https://shop.pimoroni.com/) - Another cool Raspberry Pi shop
+- [Pimoroni](https://shop.pimoroni.com/) - Another cool Raspberry Pi shop
 
 
 ## Raspberry Pi Essential Supplies
