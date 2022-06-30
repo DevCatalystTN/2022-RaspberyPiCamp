@@ -1,5 +1,5 @@
 # Raspberry Pi Camp 2022
-##[Slideshow Presentation](https://docs.google.com/presentation/d/1RdLrbrtAhuzCyZs2eIgHpo_4nzBRKSajZ8639ygkZ2o/edit?usp=sharing)
+## [Slideshow Presentation](https://docs.google.com/presentation/d/1RdLrbrtAhuzCyZs2eIgHpo_4nzBRKSajZ8639ygkZ2o/edit?usp=sharing)
 
 ## Setting Up Your SD card
 - [Install Raspberry Pi Imager](https://www.raspberrypi.com/software/) then simply select "Raspberry Pi OS (32-BIT)", select the microSD card that is plugged into your computer and let the imager handle the rest!
